@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+ 
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .parent{
+  position: relative;
+  width: 80%;
+  height: 30px;
+  background-color: blueviolet;
+  margin: 17px;
+  overflow: hidden;
+}
+.value{
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+ 
+  border-radius: 6px;
+ 
+  background-color: gray;
+  
+}
+
+.overlay{
+  width: 10%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: magenta;
+  z-index: 8;
+  
+} */
